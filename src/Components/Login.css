@@ -1,0 +1,25 @@
+#login{
+    margin-bottom: 100px;
+    
+    background-color: blue;
+    background: #fff;
+    height: 70%;
+    width: 40%;
+}
+.col-lg-10{
+    margin-left: 8%;
+    margin-right: 20%;
+}
+
+.row .col-lg{
+    box-shadow: 10px;   
+}
+
+.fas{
+    color: #007bff;
+    margin-bottom: 10px;
+   
+}
+.col-lgform-outline{
+    margin-bottom: 100px;
+}
